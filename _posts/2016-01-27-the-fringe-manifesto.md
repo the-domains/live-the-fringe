@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T16:26:20.547Z'
-dateModified: '2016-01-27T16:25:45.042Z'
+datePublished: '2016-02-05T21:11:23.109Z'
+dateModified: '2016-02-05T21:11:12.146Z'
 title: The Fringe Manifesto
 author: []
+sourcePath: _posts/2016-01-27-the-fringe-manifesto.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-the-fringe-manifesto.md
-published: true
 url: the-fringe-manifesto/index.html
 _type: Article
 
