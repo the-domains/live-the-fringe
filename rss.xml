@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Live the Fringe]]></title>
         <description><![CDATA[Live the Fringe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/live-the-fringe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:26:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 21:11:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/live-the-fringe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Fringe Manifesto]]></title>
             <description><![CDATA[<article><h1>The Fringe Manifesto</h1><p>"The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware."—Henry Miller,Tropic of Capricorn(1939)</p></article>]]></description>
-            <link>undefinedthe-fringe-manifesto/index.html</link>
+            <link>https://thegrid.ai/live-the-fringe/the-fringe-manifesto/index.html</link>
             <guid isPermaLink="false">a44e07ea-cd02-487d-bd69-bb9134097a35</guid>
-            <pubDate>Wed, 27 Jan 2016 16:26:20 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 21:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
