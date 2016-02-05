@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Embracing our own "uncool" standards of healthy living]]></title>
+        <description><![CDATA[Embracing our own "uncool" standards of healthy living]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 21:41:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singing in the Rain]]></title>
+            <description><![CDATA[<article><h1>Singing in the Rain</h1><p>After hearing a podcast interview with Randy Scott Hyde, I
+outlined a series of daily practices to help increase my feelings of happiness
+and peace. One of them is journaling about a meaningful experience, and since I
+haven't decided yet where I want to record those journal entries, I'm using
+this blog for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae6292a4dd1b256226dd810e2c96f00f6deb747b.jpg"></article>]]></description>
+            <link>undefinedsinging-in-the-rain/index.html</link>
+            <guid isPermaLink="false">92ec71c7-0936-47dc-9bb9-0f018cb7f34d</guid>
+            <pubDate>Fri, 05 Feb 2016 21:41:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
